@@ -1,0 +1,4 @@
+Nikolinas-MacBook-Pro:~ nikolinaperic$ git status > status.txt
+fatal: not a git repository (or any of the parent directories): .git
+Nikolinas-MacBook-Pro:~ nikolinaperic$ pwd
+/Users/nikolinaperic
